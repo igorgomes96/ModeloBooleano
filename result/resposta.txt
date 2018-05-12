@@ -1,0 +1,3 @@
+2
+files/arquivo3.txt
+files/arquivo4.txt
